@@ -184,7 +184,7 @@ iframe {
 .slide-content p{
     margin-bottom: 20px;
     margin-top: 20px;
-    color: #000000;
+    color: #fffb00;
     font-family: 'Roboto';
     font-size: 18px;
     visibility: hidden;
@@ -195,7 +195,7 @@ iframe {
     position: absolute;
     top: 25%;
     /* background: #dddddd38; */
-    color: rgb(0, 0, 0);
+    color: rgb(246, 255, 0);
     font-size: 30px;
     left: 10%;
     right: 10%;
@@ -211,7 +211,7 @@ iframe {
   font-family: 'Roboto';
   font-size: 14px;
   line-height: 1.7;
-  color: #000000;
+  color: #ddff00;
   margin: 0px;
   font-size: 22px;
   color: rgb(0, 0, 0);
