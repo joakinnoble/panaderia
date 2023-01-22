@@ -172,7 +172,7 @@ iframe {
 .slide-content h3{
     font-family: 'Roboto';
     margin-bottom: 20px;
-    font-size: 22px;
+    font-size: 42px;
 }
 
 
@@ -190,8 +190,8 @@ iframe {
 
 .slide-content h2{
     font-family: 'Righteous';
-    margin-bottom: 20px;
-    font-size: 52px;
+    margin-bottom: 40px;
+    font-size: 92px;
     visibility: hidden;
 
 }
@@ -200,9 +200,9 @@ iframe {
 .slide-content p{
     margin-bottom: 20px;
     margin-top: 20px;
-    color: #fffb00;
+    color: #000000;
     font-family: 'Roboto';
-    font-size: 18px;
+    font-size: 28px;
     visibility: hidden;
 
 }
@@ -211,8 +211,8 @@ iframe {
     position: absolute;
     top: 25%;
     /* background: #dddddd38; */
-    color: rgb(246, 255, 0);
-    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
     left: 10%;
     right: 10%;
 }
